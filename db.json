@@ -11,4 +11,264 @@
   "profile": {
     "name": "typicode"
   }
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 50.55
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 66
+    },
+    {
+      "title": "product 3",
+      "price": 53,
+      "id": 3
+    }
+  ],
+  "cart": {
+    "vendorList": [],
+    "totalItem": null
+  },
+  "cart_items": [
+    {
+      "title": "I survived coronavirus and all I got was this T-shirt",
+      "image": "https://cbu01.alicdn.com/img/ibank/2020/811/002/14969200118_1135444415.50x50xz.jpg",
+      "vendor": "1688",
+      "metaItems": [
+        {
+          "key": "5155871764882832344:5722972838574258902,1146441534281473174:5185990393318636729",
+          "qty": "5",
+          "price": 19.98,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "gray"
+            },
+            {
+              "title": "size",
+              "value": "XS"
+            }
+          ]
+        },
+        {
+          "key": "5155871764882832344:5722972838574258902,1146441534281473174:6519335555462858437",
+          "qty": "10",
+          "price": 19.98,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "gray"
+            },
+            {
+              "title": "size",
+              "value": "S"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Factory direct sale bag2020 new female bag European and American fashion tote bag fold wave pattern single shoulder big bag",
+      "image": "https://cbu01.alicdn.com/img/ibank/2020/238/630/14336036832_979647318.50x50xz.jpg",
+      "vendor": "1688",
+      "metaItems": [
+        {
+          "key": "5597931584818657800:4330113470092844070",
+          "qty": "5",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "white"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:2657305853519896041",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "red"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:7637062357338258555",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "Red wine"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:8560039918508827374",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "black"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:3684587731408950616",
+          "qty": "15",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "brown"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:3997992606175103846",
+          "qty": "20",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "apricot"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:5829765800947073782",
+          "qty": "25",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "Purple pink"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Factory direct sale bag2020 new female bag European and American fashion tote bag fold wave pattern single shoulder big bag",
+      "image": "https://cbu01.alicdn.com/img/ibank/2020/238/630/14336036832_979647318.50x50xz.jpg",
+      "vendor": "1688",
+      "metaItems": [
+        {
+          "key": "5597931584818657800:4330113470092844070",
+          "qty": "5",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "white"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:2657305853519896041",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "red"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:7637062357338258555",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "Red wine"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:8560039918508827374",
+          "qty": "10",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "black"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:3684587731408950616",
+          "qty": "15",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "brown"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:3997992606175103846",
+          "qty": "20",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "apricot"
+            }
+          ]
+        },
+        {
+          "key": "5597931584818657800:5829765800947073782",
+          "qty": "25",
+          "price": 16.8,
+          "meta": [
+            {
+              "title": "Colour",
+              "value": "Purple pink"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "sliders": [
+    {
+      "imageURL": "https://moveon-api.ali2bd.net/storage/uploads/1459FTY-1601205752.jpg",
+      "thumbURL": "https://moveon-api.ali2bd.net/storage/uploads/resize/1459FTY-1601205752.jpg",
+      "uuid": "2a11f14b-34b9-41ce-beb1-99e4a9c7459d",
+      "name": "1459FTY-1601205752.jpg",
+      "link": null,
+      "id": 1
+    },
+    {
+      "imageURL": "https://moveon-api.ali2bd.net/storage/uploads/1459FTY-1601205752.jpg",
+      "thumbURL": "https://moveon-api.ali2bd.net/storage/uploads/resize/1459FTY-1601205752.jpg",
+      "uuid": "2a11f14b-34b9-41ce-beb1-99e4a9c7459d",
+      "name": "1459FTY-1601205752.jpg",
+      "link": null,
+      "id": 2
+    },
+    {
+      "imageURL": "https://moveon-api.ali2bd.net/storage/uploads/1459FTY-1601205752.jpg",
+      "thumbURL": "https://moveon-api.ali2bd.net/storage/uploads/resize/1459FTY-1601205752.jpg",
+      "uuid": "2a11f14b-34b9-41ce-beb1-99e4a9c7459d",
+      "name": "1459FTY-1601205752.jpg",
+      "link": null,
+      "id": 3
+    }
+  ],
+  "message": {
+    "message": "Welcome message"
+  }
 }
